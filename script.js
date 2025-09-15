@@ -19,7 +19,7 @@ const lyricsSong1 = [
   ["nananaginip", 1500, 160],
   ["Hindi na", 400, 85],
   ["ma-makagising", 1400, 160],
-  ["Pasindi", 400, 85],
+  ["Pasindi", 600, 85],
   ["na ng ilaw", 2000, 120],
   ["Minumulto na 'ko ng damdamin ko", 900, 100],
   ["Ng damdamin ko", 300, 85],
