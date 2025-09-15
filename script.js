@@ -55,7 +55,7 @@ const lyricsSong3 = [
   ["iwanan ka niya", 2800, 130],
   ["'Wag kang mag-alala", 1500, 120],
   ["may nagmamahal sa'yo", 800, 120],
-  ["Nandito ako", 4000, 140],
+  ["Nandito ako", 3800, 140],
   ["ohh, ohh", 2000, 120],
 ];
 
