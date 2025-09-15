@@ -53,7 +53,7 @@ const lyricsSong3 = [
   ["ang puso 💔", 1500, 120],
   ["At kung sakaling", 1000, 105],
   ["iwanan ka niya", 2800, 130],
-  ["'Wag kang mag-alala", 1200, 120],
+  ["'Wag kang mag-alala", 1500, 120],
   ["may nagmamahal sa'yo", 800, 120],
   ["Nandito ako", 3500, 140],
   ["ohh, ohh", 2000, 120],
