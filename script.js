@@ -22,7 +22,7 @@ const lyricsSong1 = [
   ["Pasindi", 600, 85],
   ["na ng ilaw", 2200, 120],
   ["Minumulto na 'ko ng damdamin ko", 900, 100],
-  ["Ng damdamin ko", 600, 85],
+  ["Ng damdamin ko", 800, 85],
   ["Hindi mo ba ako lilisanin?", 1200, 100],
   ["hindi pa ba sapat pagpapahirap sa'kin?", 500, 120],
   ["hindi na ba ma-mamamayapa?", 1000, 120],
